@@ -5,4 +5,4 @@
 Web Designer & Developer. Passionate about problem-solving. I am learning MERN Stack & Good at HTML5, CSS3, Bootstrap5, Tailwind, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, MongoDB, Mongoose.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,redux,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,gatsby,materialui,nextjs,redux,nodejs,express,mongodb,vercel)](https://skillicons.dev)
