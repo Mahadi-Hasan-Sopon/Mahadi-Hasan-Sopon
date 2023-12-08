@@ -6,3 +6,6 @@ Web Designer & Developer. Passionate about problem-solving. I am learning MERN S
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,gatsby,materialui,nextjs,redux,nodejs,express,mongodb,vercel,vite,ts,vscode,discord,git,md)](https://skillicons.dev)
+
+## Current Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mahadi-Hasan-Sopon&theme=omni&border_radius=5&card_width=550)](https://git.io/streak-stats)
