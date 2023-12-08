@@ -4,7 +4,8 @@
 
 ## About Me :writing_hand:
 
-Web Designer & Developer. Passionate about problem-solving. I am learning MERN Stack & Good at HTML5, CSS3, Bootstrap5, Tailwind, JavaScript, ReactJS, Redux, NodeJS, ExpressJS, MongoDB, Mongoose.
+Web Designer & Developer. Passionate about problem-solving. I am learning MERN Stack & Good at HTML5, CSS3, Tailwind, Bootstrap5, JavaScript, ReactJS. <br/>
+Familiar with: Nextjs, Redux, NodeJS, ExpressJS, MongoDB and Mongoose.
 
 ## :stars: Skills
 
@@ -12,8 +13,8 @@ Web Designer & Developer. Passionate about problem-solving. I am learning MERN S
 
 ## :chart_with_upwards_trend: Current Stats
 
-<center>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mahadi-Hasan-Sopon&theme=radical&hide_border=true&card_width=650)](https://git.io/streak-stats)
-
-</center>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Mahadi-Hasan-Sopon&theme=radical&hide_border=true&card_width=650" alt="GitHub Streak" />
+  </a>
+</p>
