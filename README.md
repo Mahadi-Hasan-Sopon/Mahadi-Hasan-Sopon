@@ -14,6 +14,6 @@ Web Designer & Developer. Passionate about problem-solving. I am learning MERN S
 
 <center>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mahadi-Hasan-Sopon&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mahadi-Hasan-Sopon&theme=radical&hide_border=true&card_width=650)](https://git.io/streak-stats)
 
 </center>
