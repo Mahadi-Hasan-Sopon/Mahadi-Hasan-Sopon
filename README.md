@@ -37,7 +37,7 @@
 
 <hr>
 
-## :chart_with_upwards_trend: Current Stats
+<h2 align="center">:chart_with_upwards_trend:  Current Stats  :chart_with_upwards_trend:</h2>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
