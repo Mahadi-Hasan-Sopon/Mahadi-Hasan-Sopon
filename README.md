@@ -58,15 +58,20 @@
 
 <hr>
 
-<!-- <h2 align="center">💹 Most Popular Repos 💹</h2>
+<h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-Hasan-Sopon&repo=library-management-client)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <p align="center">
 <a href="https://github.com/Mahadi-Hasan-Sopon/library-management-client/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-Hasan-Sopon&repo=library-management-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-Hasan-Sopon&repo=library-management-client&title_color=fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 </a>
 
 <a href="https://github.com/Mahadi-Hasan-Sopon/inventory-management-client">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-Hasan-Sopon&repo=inventory-management-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-Hasan-Sopon&repo=inventory-management-client&title_color=fff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-</p> -->
+</p>
+
+<hr>
